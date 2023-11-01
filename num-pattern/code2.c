@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main(){
+	printf("Aditya Rawat-23151125\n");
+    int rows;
+    printf("Enter the number of rows: ");
+    scanf("%d",&rows);
+
+    for(int i=0;i<rows;i++){
+        for(int j=0;j<rows;j++){
+            if(i%2!=0){
+                printf("0");
+            }
+            else{
+                printf("1");
+            }
+        }
+        printf("\n");
+    }
+    return 0;
+}
