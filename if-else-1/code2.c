@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    printf("Aditya Rawat - 23151125\n");
     int num1,num2,num3;
     printf("Enter the number 1: ");
     scanf("%d",&num1);
