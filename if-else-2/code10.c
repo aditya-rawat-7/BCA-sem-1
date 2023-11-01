@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    printf("Aditya Rawat - 23151125\n");
     int sp,cp;
     printf("Enter the Selling price: ");
     scanf("%d",&sp);

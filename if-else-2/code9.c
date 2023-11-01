@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
+    printf("Aditya Rawat - 23151125\n");
     float a,b,c,r1,r2;
     printf("a: ");
     scanf("%f",&a);

@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    printf("Aditya Rawat - 23151125\n");
     int amt,n500=0,n200=0,n100=0,n20=0,n10=0,n1=0;
     printf("Enter the total number of amount: ");
     scanf("%d",&amt);

@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    printf("Aditya Rawat - 23151125\n");
     int side1, side2, side3;
     printf("Enter the first side of triangle: ");
     scanf("%d",&side1);
